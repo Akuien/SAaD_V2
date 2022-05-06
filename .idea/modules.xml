@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaseA/CaseA.iml" filepath="$PROJECT_DIR$/CaseA/CaseA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseB/CaseB.iml" filepath="$PROJECT_DIR$/CaseB/CaseB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaseC/CaseC.iml" filepath="$PROJECT_DIR$/CaseC/CaseC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SAaD_V2.iml" filepath="$PROJECT_DIR$/.idea/SAaD_V2.iml" />
+    </modules>
+  </component>
+</project>
